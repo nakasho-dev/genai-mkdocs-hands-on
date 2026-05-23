@@ -22,6 +22,7 @@ watch:
   - mkdocs.yml
 
 plugins:
+  - search
   - awesome-pages
   - table-reader:
       enabled: true
